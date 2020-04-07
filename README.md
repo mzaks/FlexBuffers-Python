@@ -2,7 +2,7 @@
 This is a collection of Python classes to read and write [FlexBuffers](https://google.github.io/flatbuffers/flexbuffers.html)
 
 ---
-⚠️ This library is designed to be convinient way for Python developers to read and write FlexBuffers. It is not optimized for performance!
+⚠️ This library is designed to be convenient way for Python developers to read and write FlexBuffers. It is not optimized for performance!
 ---
 
 # Usage
